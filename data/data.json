@@ -1,0 +1,312 @@
+{
+    "stats_globales": {
+        "promotion_active_count": 1,
+        "promotion_total_count": 14,
+        "nombre_referentiel": 8,
+        "nombre_apprenants": 2
+    },
+    "promotions": [
+        {
+            "nom": "promo2025",
+            "date_debut": "2025-01-15",
+            "date_fin": "2025-07-30",
+            "photo": "assets\/images\/im1.jpeg",
+            "nombre_apprenants": 120,
+            "active": false,
+            "etat": "Terminée",
+            "referentiels": [
+                "Développement Web",
+                "Référent Digital",
+                "developpement"
+            ]
+        },
+        {
+            "nom": "SA Promo 2024",
+            "date_debut": "2024-01-10",
+            "date_fin": "2024-07-15",
+            "photo": "assets\/images\/promo2024.jpg",
+            "nombre_apprenants": 140,
+            "active": false,
+            "etat": "Terminée",
+            "referentiels": [
+                "Développement Web",
+                "Référent Digital"
+            ]
+        },
+        {
+            "nom": "SA Promo 2026",
+            "date_debut": "2024-01-10",
+            "date_fin": "2024-07-15",
+            "photo": "assets\/images\/promo2024.jpg",
+            "nombre_apprenants": 140,
+            "active": false,
+            "etat": "Terminée",
+            "referentiels": [
+                "Développement Web"
+            ]
+        },
+        {
+            "nom": "SA Promo 2028",
+            "date_debut": "2024-01-10",
+            "date_fin": "2024-07-15",
+            "photo": "assets\/images\/promo2024.jpg",
+            "nombre_apprenants": 140,
+            "active": false,
+            "etat": "Terminée",
+            "referentiels": [
+                "Développement Web"
+            ]
+        },
+        {
+            "nom": "dev2020",
+            "date_debut": "2025-04-01",
+            "date_fin": "2026-04-17",
+            "photo": "assets\/images\/promo_6808b5af9eb0c.png",
+            "nombre_apprenants": 0,
+            "active": false,
+            "etat": "Terminée",
+            "referentiels": []
+        },
+        {
+            "nom": "promo322",
+            "date_debut": "2025-01-01",
+            "date_fin": "2027-01-01",
+            "photo": "assets\/images\/6808b8a75ec86_Capture.png",
+            "nombre_apprenants": 0,
+            "active": false,
+            "etat": "Terminée",
+            "referentiels": [
+                "Développement Web"
+            ]
+        },
+        {
+            "nom": "promo9999999",
+            "date_debut": "2025-01-01",
+            "date_fin": "2026-01-01",
+            "photo": "assets\/images\/6808d7de84505_Capture.png",
+            "nombre_apprenants": 0,
+            "active": false,
+            "etat": "Terminée",
+            "referentiels": [
+                "Développement Web"
+            ]
+        },
+        {
+            "nom": "developpement",
+            "date_debut": "2025-02-01",
+            "date_fin": "2026-01-01",
+            "photo": "assets\/images\/6808d86be5521_Capture.png",
+            "nombre_apprenants": 0,
+            "active": false,
+            "etat": "Terminée",
+            "referentiels": [
+                "Développement Web"
+            ]
+        },
+        {
+            "nom": "dev datas alhass",
+            "date_debut": "2025-01-02",
+            "date_fin": "2026-01-01",
+            "photo": "assets\/images\/68090b5f69c92_ass.png",
+            "nombre_apprenants": 0,
+            "active": false,
+            "etat": "Terminée",
+            "referentiels": [
+                "Développement Web",
+                "Référent Digital"
+            ]
+        },
+        {
+            "nom": "fjfjjfj",
+            "date_debut": "2025-04-12",
+            "date_fin": "2025-04-27",
+            "photo": "assets\/images\/default.png",
+            "nombre_apprenants": 0,
+            "active": true,
+            "etat": "Terminée",
+            "referentiels": [
+                "Développement Web",
+                "Référent Digital"
+            ]
+        },
+        {
+            "nom": "tttttttttttttttttt",
+            "date_debut": "2025-04-03",
+            "date_fin": "2025-04-30",
+            "photo": "assets\/images\/default.png",
+            "nombre_apprenants": 0,
+            "active": false,
+            "etat": "Terminée",
+            "referentiels": [
+                "Développement Web",
+                "Référent Digital",
+                "developpement"
+            ]
+        },
+        {
+            "nom": "gggggggggggggggggg",
+            "date_debut": "2025-04-11",
+            "date_fin": "2025-04-30",
+            "photo": "assets\/images\/680b55798a1ef_Capture.png",
+            "nombre_apprenants": 0,
+            "active": false,
+            "etat": "En cours",
+            "referentiels": [
+                "Développement Web"
+            ]
+        },
+        {
+            "nom": "hhfhhhfhghhghhhhhhhhhhhhhhhhhhhhhhh",
+            "date_debut": "2025-03-20",
+            "date_fin": "2028-03-20",
+            "photo": "assets\/images\/680b6a44b2250_ass.png",
+            "nombre_apprenants": 0,
+            "active": false,
+            "etat": "Terminée",
+            "referentiels": [
+                "Développement Web",
+                "Référent Digital",
+                "developpement"
+            ]
+        }
+    ],
+    "referentiels": [
+        {
+            "nom": "Développement Web",
+            "description": "Formation au développement de sites et applications web.",
+            "nombre_modules": 10,
+            "nombre_apprenants": 70,
+            "photo": "assets\/images\/dev.png"
+        },
+        {
+            "nom": "Référent Digital",
+            "description": "Spécialiste de la communication numérique.",
+            "nombre_modules": 8,
+            "nombre_apprenants": 50,
+            "photo": "assets\/images\/ref1.png"
+        },
+        {
+            "nom": "Référent Digita",
+            "description": "Spécialiste de la communication numérique.",
+            "nombre_modules": 8,
+            "nombre_apprenants": 50,
+            "photo": "assets\/images\/ref1.png"
+        },
+        {
+            "nom": "Référent Digit",
+            "description": "Spécialiste de la communication numérique.",
+            "nombre_modules": 8,
+            "nombre_apprenants": 50,
+            "photo": "assets\/images\/ref1.png"
+        },
+        {
+            "nom": "Référent Digitals",
+            "description": "Spécialiste de la communication numérique.",
+            "nombre_modules": 8,
+            "nombre_apprenants": 50,
+            "photo": "assets\/images\/ref1.png"
+        },
+        {
+            "nom": "ref d",
+            "description": "fjjgjjgj",
+            "capacite": "34",
+            "sessions": "9",
+            "photo": "assets\/images\/ref_6808d3e6caa8e_Capture.png"
+        },
+        {
+            "nom": "dev2020",
+            "description": "njjjj",
+            "capacite": "23",
+            "sessions": "9",
+            "photo": "assets\/images\/ref_6808d4e214f25_devops.png"
+        },
+        {
+            "nom": "developpement",
+            "description": ",fjjjfjjfjjf",
+            "capacite": "45",
+            "sessions": "9",
+            "photo": "assets\/images\/ref_6808d78554ebf_ref.png"
+        }
+    ],
+    "utilisateurs": [
+        {
+            "id": 1,
+            "nom": "admin",
+            "prenom": "Admin",
+            "email": "admin@example.com",
+            "role": "admin",
+            "mot_de_passe": "admin123"
+        }
+    ],
+    "apprenants": [
+        {
+            "photo": "assets\/images\/default.png",
+            "matricule": "MAT011",
+            "nom": "Diop",
+            "prenom": "Seydina Muhammad",
+            "date_naissance": "01\/03\/2025",
+            "lieu_naissance": "Dakar",
+            "adresse": "Sicap Liberté 6 Villa 6059 Dakar, Sénégal",
+            "telephone": "+221 77 433 19 36",
+            "email": "mouhamed77@gmail.com",
+            "referentiel": "Développement Web",
+            "statut": "actif",
+            "login": "seydina.diop",
+            "mot_de_passe": "seydina123",
+            "password_changed": false,
+            "tuteur": {
+                "nom": "Diop",
+                "prenom": "Assane",
+                "lien_parente": "Père",
+                "adresse": "Sicap Liberté 6 Villa 6059 Dakar, Sénégal",
+                "telephone": "+221 77 433 19 36"
+            }
+        },
+        {
+            "photo": "assets\/images\/1745959887_Capture d’écran du 2025-04-03 13-06-30.png",
+            "matricule": "MAT012",
+            "nom": "ndiaye",
+            "prenom": "bamba",
+            "date_naissance": "03\/04\/2025",
+            "lieu_naissance": "dakar",
+            "adresse": "liberté 5",
+            "telephone": "+221 77 888 98 09",
+            "email": "fpapi5148@gmail.com",
+            "referentiel": "Développement Web",
+            "statut": "actif",
+            "login": "bamba.ndiaye",
+            "mot_de_passe": "pUZTOsi0",
+            "password_changed": false,
+            "tuteur": {
+                "nom": "ndiaye",
+                "prenom": "fanta",
+                "lien_parente": "mere",
+                "adresse": "liberte 5",
+                "telephone": "+221 77 898 76 54"
+            }
+        },
+        {
+            "photo": "assets\/images\/1745964166_Capture d’écran du 2025-04-04 14-03-49.png",
+            "matricule": "MAT013",
+            "nom": "ndiaye",
+            "prenom": "jean",
+            "date_naissance": "2001-01-02",
+            "lieu_naissance": "dakar",
+            "adresse": "liberte 4",
+            "telephone": "+221 77 865 43 23",
+            "email": "nafissatou3582@gmail.com",
+            "referentiel": "Référent Digital",
+            "statut": "actif",
+            "login": "jean.ndiaye",
+            "mot_de_passe": "VQt1Luza",
+            "password_changed": false,
+            "tuteur": {
+                "nom": "ndiaye",
+                "prenom": "fallou",
+                "lien_parente": "pere",
+                "adresse": "liberte 5",
+                "telephone": "+221 77 865 43 21"
+            }
+        }
+    ]
+}
