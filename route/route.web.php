@@ -1,6 +1,6 @@
 <?php
 
-$route=[
+$route = [
          'controleur'=>function(){
               
                $root=__DIR__ . '/../controllers/controller.php';
@@ -63,7 +63,4 @@ return __DIR__ . '/../controllers/control_connect.php';
 'changer_pass' => function () {
 return __DIR__ . '/../controllers/control_changer.php';
 }
-   
-   
-         
-    ];
+]; 
